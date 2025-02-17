@@ -1,4 +1,4 @@
 # amazon-clone
 this is my first git repository.
 <br>
-Alhamdulillah
+Author-Shahid Khan
